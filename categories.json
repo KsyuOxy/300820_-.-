@@ -1,0 +1,10 @@
+{"categories": [
+
+  {"category": "beverages", "producer": "Coca-Cola"},
+  {"category": "beverages", "producer": "PepsiCo"},
+  {"category": "beverages", "producer": "IDS Borjomi Georgia"},
+  {"category": "tea", "producer": "Monomah"},
+  {"category": "baking", "producer": "BreadGood"},
+  {"category": "baking", "producer": "Goodies"},
+  {"category": "baking", "producer": "Om-Nom-nom"}
+]}

@@ -1,0 +1,13 @@
+{"goods": [
+  {"name": "Coca-Cola", "tare": 0.5, "price": 25.8},
+  {"name": "Coca-Cola", "tare": 0.33, "price": 18.0},
+  {"name": "Sandora", "tare": 1.0, "price": 28.5},
+  {"name": "Sandora", "tare": 0.5, "price": 19.5},
+  {"name": "Borjomi", "tare": 0.5, "price": 12.3},
+  {"name": "Borjomi", "tare": 0.33, "price": 12.3},
+  {"name": "Lovare", "tare": 0.2, "price": 17.0},
+  {"name": "Bun", "tare": 0, "price": 11.4},
+  {"name": "Brewing cake", "tare": 0, "price": 15.0},
+  {"name": "Pita", "tare": 0, "price": 18.2},
+  {"name": "Eclair", "tare": 0, "price": 13.6},
+  {"name": "Cake", "tare": 0, "price": 125.0}]}
